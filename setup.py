@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name = 'UserAgentPool',
-    version = '1.0.2',
+    version = '1.0.3',
     description = 'Use for randomly get header',
     author = 'Steven Chang',
     author_email = 's8110282004@gmail.com',
