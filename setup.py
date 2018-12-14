@@ -8,7 +8,8 @@ setup(
     author_email = 's8110282004@gmail.com',
     url = 'https://github.com/MuFanChang/UserAgentPool',
     download_url = 'https://github.com/MuFanChang/UserAgentPool/releases/tag/v1.0.2',
-    packages = ['UserAgentPool'],
+    scripts = 'UserAgent.py',
+    packages = find_packages(),
     keywords = ['UserAgent','header'],
     classifiers = []
 )
